@@ -1,16 +1,13 @@
-### Hi there 👋
+✨ Dear ✨
+Challenges and failures are inevitable in any field, but they also
+present valuable opportunities for growth and learning.
 
-<!--
-**CleverHolmes/CleverHolmes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on one Trading platform
+- 👯 I’m looking to collaborate as Full Stack & Smart Contract Developer.
+- 💬 Ask me about React, Node, Express, Python, Django, Web3, Solidity, Network Security, Ethical hacking, Linux.
+- 📫 How to reach me: 
+     discord : Twinstar#4188
+     gmail : golddev9697@gmail.com
+- 😄 Pronouns: He/him
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Metrics](/github-metrics.svg)
