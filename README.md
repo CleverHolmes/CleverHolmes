@@ -7,7 +7,6 @@ present valuable opportunities for growth and learning.
 - 💬 Ask me about React, Node, Express, Python, Django, Web3, Solidity, Network Security, Ethical hacking, Linux.
 - 😄 Pronouns: He/him
 
-<div style>
 ## Skills  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="35" height="35" />
 
 <img align="center" src="/github-metrics.svg" alt="Current Status" width="400">
