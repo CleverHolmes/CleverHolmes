@@ -31,4 +31,5 @@ present valuable opportunities for growth and learning.
 |<img src="./img/git-original.svg" width="25"> | ` GIT ` | <img src="" alt="" width="25">
 |<img src="./img/photoshop-line.svg" width="25"> | ` PHOTOSHOP ` | <img src="" alt="" width="25">
 <!-- |<img src="./img/ .svg" width="25"> | `  ` | <img src="" alt="" width="25"> -->
- ![Metrics](/github-metrics.svg)
+
+<img align="right" src="/github-metrics.svg" alt="Metrics" width="400">
