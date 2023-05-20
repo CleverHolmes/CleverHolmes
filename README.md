@@ -1,4 +1,4 @@
-✨ Dear ✨
+# Welcome to my profile! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" />
 Challenges and failures are inevitable in any field, but they also
 present valuable opportunities for growth and learning.
 
