@@ -6,10 +6,12 @@ present valuable opportunities for growth and learning.
 - 👯 I’m looking to collaborate as Full Stack & Smart Contract Developer.
 - 💬 Ask me about React, Node, Express, Python, Django, Web3, Solidity, Network Security, Ethical hacking, Linux.
 - 😄 Pronouns: He/him
-- 
+
+<div style>
 ## Skills  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="35" height="35" />
 
-
+<div class="grid-container">
+<div class="item1">
 | **#** | **Language** | **Proficiency** |
 | :------------------------------------------------------------------------------------------------------------: | :----------: | :-------------------------------------------------------------------: |
 |<img src="./img/html5-original.svg" width="25"> | ` HTML5 ` | <img src="" alt="" width="25">
@@ -31,4 +33,7 @@ present valuable opportunities for growth and learning.
 |<img src="./img/photoshop-line.svg" width="25"> | ` PHOTOSHOP ` | <img src="" alt="" width="25">
 <!-- |<img src="./img/ .svg" width="25"> | `  ` | <img src="" alt="" width="25"> -->
 
-![Metrics](/github-metrics.svg)
+</div>
+<div class="item2">
+![Metrics](/github-metrics.svg)</div>
+</div>
