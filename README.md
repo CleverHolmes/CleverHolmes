@@ -10,4 +10,4 @@ present valuable opportunities for growth and learning.
 <div style>
 ## Skills  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="35" height="35" />
 
-<img align="right" src="/github-metrics.svg" alt="Metrics" width="400">
+<img align="center" src="/github-metrics.svg" alt="Current Status" width="400">
