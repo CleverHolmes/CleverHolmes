@@ -5,12 +5,9 @@ present valuable opportunities for growth and learning.
 - 🔭 I’m currently working on one Trading platform
 - 👯 I’m looking to collaborate as Full Stack & Smart Contract Developer.
 - 💬 Ask me about React, Node, Express, Python, Django, Web3, Solidity, Network Security, Ethical hacking, Linux.
-- 📫 How to reach me: 
-     discord : Twinstar#4188
-     gmail : perfectdev95311@gmail.com
 - 😄 Pronouns: He/him
-### 🛠Skills
-
+- 
+## Skills  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="35" height="35" />
 
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
